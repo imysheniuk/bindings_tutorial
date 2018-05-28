@@ -1,0 +1,6 @@
+/* styles in src/style directory are applied to the whole page */
+
+body {
+  background: #e6e6ff;
+  padding: 100px;
+}
