@@ -5,8 +5,5 @@ export default class MyButtonCmp {
     constructor () {
         this.controller = MyButtonCtrl;
         this.template = require('./MyButton.html');
-        this.bindings = {
-            onChange: '&'
-        }
     }
 }

@@ -8,4 +8,3 @@ import AppCmp from './AppCmp';
 
 angular.module('app', ['app.components'])
 .component('app', new AppCmp());
-
